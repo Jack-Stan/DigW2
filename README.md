@@ -1,1 +1,1 @@
-# DigWO2
+# DigW2
